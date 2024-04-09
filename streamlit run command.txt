@@ -1,0 +1,2 @@
+
+streamlit run "C:\Users\lenovo\Desktop\Multiple Disease Prediction System\multiple disease pred.py"
